@@ -10,11 +10,16 @@
    $ sudo gem install cocoapods
    ```
 
-2. Clone the repository:
-   
-   ```bash
-   $ git clone https://github.com/[Your-Username]/MoviesApp.git
-   ```
+2. Download and Unzip the Repository:
+
+1. Navigate to the GitHub repository at `https://github.com/zocstojanoski/MoviesApp`.
+2. Click the **Code** button (usually a green button near the top right).
+3. In the dropdown, click on **Download ZIP**.
+4. Once the ZIP file is downloaded, locate it in your downloads folder or wherever you've saved it.
+5. Unzip the file:
+   - Double-click the ZIP file.
+
+6. The repository's contents will be in a folder named `MoviesApp` in the location where you unzipped the file. Navigate into this folder to access the project files.
 
 3. Navigate to the project directory and install the necessary pods:
    
